@@ -19,7 +19,8 @@ jobs:
           node-version: 16
       
       - name: Install dependencies
-        run: npm ci --legacy-peer-deps
+        uses: actions/npm@v5
+        run: npm ci
 
       - name: Build Storybook
         run: npm run build-storybook
