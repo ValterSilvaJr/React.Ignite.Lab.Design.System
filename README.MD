@@ -66,3 +66,6 @@ Fazendo isto o `tailwindcss` passa a entender que você irá apenas estilizar os
 ###### Recomendação de extensões para intellisense e highlighting
 * [PostCSS Language Support](https://marketplace.visualstudio.com/items?itemName=csstools.postcss) Syntax highlighting for modern and experimental CSS in VSCode
 * [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) Intelligent Tailwind CSS tooling for VS Code
+
+###### Extras
+* [Transform](https://transform.tools/) é uma ferramenta online que converte um código SVG em um componente React.
