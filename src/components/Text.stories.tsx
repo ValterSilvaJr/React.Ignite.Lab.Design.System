@@ -2,7 +2,7 @@ import { Meta, StoryObj } from '@storybook/react'
 import { Text, TextProps } from './Text'
 
 export default {
-  title: 'Component/Text',
+  title: 'Components/Text',
   component: Text,
   args: {
     children: 'Lorem ipsum.',

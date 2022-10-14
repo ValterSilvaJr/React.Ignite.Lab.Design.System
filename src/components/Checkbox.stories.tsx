@@ -3,7 +3,7 @@ import { Checkbox, CheckboxProps } from './Checkbox';
 import { Text} from './Text';
 
 export default {
-  title: 'Component/Checkbox',
+  title: 'Components/Checkbox',
   component: Checkbox,
   args: {},
   argTypes: {},
